@@ -42,10 +42,11 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-[Uploading exp02.f3d…]()
+
 
 
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
 
+[EX NO1.1 Drawing.pdf](https://github.com/user-attachments/files/23095690/EX.NO1.1.Drawing.pdf)
